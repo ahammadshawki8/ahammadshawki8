@@ -9,4 +9,4 @@ I grew up in Dhaka, Bangladesh. I am intersted in participating different Olympi
 
 Professionally, I am very passionate about applications of Deep Learning, Machine Learning and Artificial Intelligence. Python is my favourite programming language. Currently, I am working in a project about "DSA Implementations in Python". This project focuses implementing different data structures and algorithms in Python language.
 
-I’m interested in internship opportunities in Data science, Software Engineering and all other Python developer opportunities. I am available for the next internship cycle (2021 summer). Send me an email if you think I am a good match for your company.
+I’m interested in internship opportunities in Data science, Software Engineering and all other Python developer opportunities. Send me an email if you think I am a good match for your company.

@@ -18,7 +18,7 @@ I’m interested in internship opportunities in Data Science, Software Engineeri
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-000000?style=flat&logo=powershell)
 
 ## Github Overview

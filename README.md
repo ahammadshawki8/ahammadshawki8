@@ -14,12 +14,7 @@ I’m interested in internship opportunities in Data Science, Software Engineeri
 
 
 ## Languages
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql)
-![PowerShell](https://img.shields.io/badge/-PowerShell-000000?style=flat&logo=powershell)
+<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="Python" width="48" height="48"/><img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48"/><img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="HTML" width="48" height="48"/><img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="CSS" width="48" height="48"/><img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48"/><img src="https://www.freeiconspng.com/uploads/powershell-icon-9.png" alt="Powershell" width="48" height="48"/>
 
 ## Github Overview
 ![Ahammad's github stat](https://github-readme-stats.vercel.app/api?username=ahammadshawki8&show_icons=true)

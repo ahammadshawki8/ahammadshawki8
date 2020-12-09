@@ -14,7 +14,7 @@ I’m interested in internship opportunities in Data Science, Software Engineeri
 ## Languages
 <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="Python" width="48" height="48"/>     <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48"/>     <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="HTML" width="48" height="48"/>     <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="CSS" width="48" height="48"/>     <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48"/>     <img src="https://www.freeiconspng.com/uploads/powershell-icon-9.png" alt="Powershell" width="48" height="48"/>       <img src="https://github.com/ahammadshawki8/ahammadshawki8/blob/master/markdown.png" alt="Markdown" width="48" height="48"/>
 
-## Github Overview
+## GitHub Overview
 <a href="https://github.com/ahammadshawki8/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ahammadshawki8&show_icons=true&include_all_commits=true" alt="Ahammad's GitHub Stats" />
 </a>

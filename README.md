@@ -20,7 +20,7 @@ I’m interested in internship opportunities in Data Science, Software Engineeri
 
 ## Connect with me
 
-[<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://ahammadshawki8.github.io/)
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mail-dot-ru.svg" />](mailto:ahammadshawki8@gmail.com)
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/AhammadShawki8)
+[<img align="left" width="22px" src="https://github.com/ahammadshawki8/ahammadshawki8/blob/master/website.png" />](https://ahammadshawki8.github.io/)
+[<img align="left" width="22px" src="https://github.com/ahammadshawki8/ahammadshawki8/blob/master/mail.png" />](mailto:ahammadshawki8@gmail.com)
+[<img align="left" width="22px" src="https://github.com/ahammadshawki8/ahammadshawki8/blob/master/twitter.png" />](https://twitter.com/AhammadShawki8)
 

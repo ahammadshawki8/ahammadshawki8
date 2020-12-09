@@ -1,6 +1,6 @@
 # Hey there!
 
-![](https://github.com/ahammadshawki8/ahammadshawki8/blob/master/code.gif)
+![](https://github.com/ahammadshawki8/ahammadshawki8/blob/master/code.gif) <img src="https://github.com/ahammadshawki8/ahammadshawki8/blob/master/poster.jpg" alt="Company" width="200" height="200"/>
 
 
 My name is Ahammad Shawki. I am currently studying at Rajuk Uttara Model College. I am a 15 years old self-taught Python Programmer, Data Scientist, and Web Developer. I grew up in Dhaka, Bangladesh.

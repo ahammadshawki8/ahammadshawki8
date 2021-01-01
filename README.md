@@ -8,7 +8,9 @@
 <p align="center">Professionally, I am very passionate about applications of Deep Learning, Machine Learning, and Artificial Intelligence. Python is my favorite programming language. Currently, I am working on a project about <a href = "https://github.com/ahammadshawki8/Hospital-Management-System">"Hospital Management System"</a>. This project focuses on working with the PostgreSQL database system from the very beginning.</p>
 
 
-<p align="center">I’m interested in internship opportunities in Data Science, Software Engineering, Backend Development, and Web Application Development. Please visit my website to know better about me. Send me an email if you think I am a good match for your company.
+<p align="center">I’m interested in internship opportunities in Data Science, Software Engineering, Backend Development, and Web Application Development. Please visit my website to know better about me. Send me an email if you think I am a good match for your company. <br>
+  
+<h4 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h4>
 </p>
 
 
@@ -30,13 +32,10 @@
 
 <h2 align="center"> Connect with me</h2>
 <p align="center">
-<a href="https://ahammadshawki8.github.io/"><img align="left" width="22px" src="https://github.com/ahammadshawki8/ahammadshawki8/blob/master/website.png" /></a>
-<a href="mailto:ahammadshawki8@gmail.com"><img align="left" width="22px" src="https://github.com/ahammadshawki8/ahammadshawki8/blob/master/mail.png" /></a>
-<a href="https://twitter.com/AhammadShawki8"><img align="left" width="22px" src="https://github.com/ahammadshawki8/ahammadshawki8/blob/master/twitter.png" /></a>
-</p>
+<a href="https://ahammadshawki8.github.io/"><img align="left" width="22px" src="https://github.com/ahammadshawki8/ahammadshawki8/blob/master/website.png" /></a> <a href="mailto:ahammadshawki8@gmail.com"><img align="left" width="22px" src="https://github.com/ahammadshawki8/ahammadshawki8/blob/master/mail.png" /></a> <a href="https://twitter.com/AhammadShawki8"><img align="left" width="22px" src="https://github.com/ahammadshawki8/ahammadshawki8/blob/master/twitter.png" /></a> </p>
 
  
  
  
  
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+

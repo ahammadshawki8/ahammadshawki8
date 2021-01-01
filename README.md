@@ -6,9 +6,9 @@
 <p align = "center"><img src="https://github.com/ahammadshawki8/ahammadshawki8/blob/master/code.gif"/></p>
 
 
-<p align="center">Hey there, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px">. It is nice to meet you. I am just a 16 years old kid studying at Rajuk Uttara Model College. But the cool thing about me is that "Programming is my life". I started my programming journey when I was 12 years old. Since then, I have worked in tons of projects.</a>
-<p align="center">Professionally, I am very passionate about applications of Deep Learning, Machine Learning, and Artificial Intelligence. Python is my favorite programming language. Currently, I am working on a project about <a href = "https://github.com/ahammadshawki8/Hospital-Management-System">"Hospital Management System"</a>. This project focuses on working with the PostgreSQL database system from the very beginning.</p>
+<p align="center">Hey there, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px">. It is nice to meet you. I am just a 16 years old kid studying at Rajuk Uttara Model College. But the cool thing about me is that "Programming is my life". I started my programming journey when I was 12 years old. Since then, I have worked on tons of projects.</a>
 
+<p align="center">Professionally, I am very passionate about applications of Deep Learning, Machine Learning, and Artificial Intelligence. Python is my favorite programming language. Currently, I am working on a project about <a href = "https://github.com/ahammadshawki8/Hospital-Management-System">"Hospital Management System"</a>. This project focuses on working with the PostgreSQL database system from the very beginning.</p>
 
 <p align="center">I’m interested in internship opportunities in Data Science, Software Engineering, Backend Development, and Web Application Development. Please visit my website to know better about me. Send me an email if you think I am a good match for your company. <br>
   

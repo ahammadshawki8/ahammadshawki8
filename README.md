@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+<br><br>
 <h1 align="center"> <a href ="https://ahammadshawki8.github.io/">Ahammad Shawki</a></h1>
 <p align="center">Python Programmer | Web Developer | Data Science Enthusist | Blogger | Freelancer | Math Lover | Author</p>
 
@@ -10,7 +12,7 @@
 
 <p align="center">I’m interested in internship opportunities in Data Science, Software Engineering, Backend Development, and Web Application Development. Please visit my website to know better about me. Send me an email if you think I am a good match for your company. <br>
   
-<h4 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h4>
+<h4 align="center">Show some &nbsp;❤️&nbsp; by starring  &nbsp;⭐&nbsp; some of the repositories!</h4>
 </p>
 
 <br><br>
@@ -43,3 +45,4 @@
  
  
 
+![](https://raw.githubusercontent.com/Subhampreet/Subhampreet/master/media/footer.png)

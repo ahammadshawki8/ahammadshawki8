@@ -13,12 +13,14 @@
 <h4 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h4>
 </p>
 
-
+<br><br>
 
 <h2 align="center"> Languages & Tools </h2>
 <p align="center">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="Python" width="48" height="48"/>     <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48"/>     <img src="https://github.com/ahammadshawki8/ahammadshawki8/blob/master/html.svg" alt="HTML" width="48" height="48"/>     <img src="https://github.com/ahammadshawki8/ahammadshawki8/blob/master/css.png" alt="CSS" width="48" height="48"/>     <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48"/>     <img src="https://www.freeiconspng.com/uploads/powershell-icon-9.png" alt="Powershell" width="48" height="48"/>       <img src="https://github.com/ahammadshawki8/ahammadshawki8/blob/master/markdown.png" alt="Markdown" width="48" height="48"/>      <img src="https://github.com/ahammadshawki8/ahammadshawki8/blob/master/sublime.png" alt="HTML" width="48" height="48"/>      <img src="https://github.com/ahammadshawki8/ahammadshawki8/blob/master/vscode.png" alt="HTML" width="48" height="48"/>      <img src="https://github.com/ahammadshawki8/ahammadshawki8/blob/master/jupyter.png" alt="HTML" width="40" height="48"/>  </p>
 
+
+<br><br>
 
 <h2 align="center"> GitHub Overview </h2>
 <p align="center">
@@ -30,9 +32,11 @@
 </a></p>
 
 
-<h2 align="center"> Connect with me</h2>
+<br><br>
+
+<h2 align="center"> Connect with me </h2>
 <p align="center">
-<a href="https://ahammadshawki8.github.io/"><img align="left" width="22px" src="https://github.com/ahammadshawki8/ahammadshawki8/blob/master/website.png" /></a> <a href="mailto:ahammadshawki8@gmail.com"><img align="left" width="22px" src="https://github.com/ahammadshawki8/ahammadshawki8/blob/master/mail.png" /></a> <a href="https://twitter.com/AhammadShawki8"><img align="left" width="22px" src="https://github.com/ahammadshawki8/ahammadshawki8/blob/master/twitter.png" /></a> </p>
+<a href="https://ahammadshawki8.github.io/"><img align="center" width="30px" src="https://github.com/ahammadshawki8/ahammadshawki8/blob/master/website.png" /></a> &nbsp;&nbsp; <a href="mailto:ahammadshawki8@gmail.com"><img align="center" width="30px" src="https://github.com/ahammadshawki8/ahammadshawki8/blob/master/mail.png" /></a> &nbsp;&nbsp; <a href="https://twitter.com/AhammadShawki8"><img align="center" width="30px" src="https://github.com/ahammadshawki8/ahammadshawki8/blob/master/twitter.png" /></a> </p>
 
  
  

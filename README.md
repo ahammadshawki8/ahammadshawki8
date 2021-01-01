@@ -1,4 +1,4 @@
-# Hey there!
+<h1> Hey there, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 ![](https://github.com/ahammadshawki8/ahammadshawki8/blob/master/code.gif) <img src="https://github.com/ahammadshawki8/ahammadshawki8/blob/master/poster.jpg" alt="Company" width="200" height="200"/>
 
@@ -21,6 +21,7 @@ I’m interested in internship opportunities in Data Science, Software Engineeri
 <a href="https://github.com/ahammadshawki8/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ahammadshawki8&layout=compact" />
 </a>
+![Visitor Count](https://profile-counter.glitch.me/{ahammadshawki8}/count.svg)
 
 
 ## Connect with me

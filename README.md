@@ -1,8 +1,9 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+
 <br><br>
+
 <h1 align="center"> <a href ="https://ahammadshawki8.github.io/">Ahammad Shawki</a></h1>
 <p align="center">Python Programmer | Web Developer | Data Science Enthusist | Blogger | Freelancer | Math Lover | Author</p>
-
 <p align = "center"><img src="https://github.com/ahammadshawki8/ahammadshawki8/blob/master/code.gif"/></p>
 
 
@@ -39,10 +40,5 @@
 <h2 align="center"> Let's connect! </h2>
 <p align="center">
 <a href="https://ahammadshawki8.github.io/"><img align="center" width="30px" src="https://github.com/ahammadshawki8/ahammadshawki8/blob/master/website.png" /></a> &nbsp;&nbsp; <a href="mailto:ahammadshawki8@gmail.com"><img align="center" width="30px" src="https://github.com/ahammadshawki8/ahammadshawki8/blob/master/mail.png" /></a> &nbsp;&nbsp; <a href="https://twitter.com/AhammadShawki8"><img align="center" width="30px" src="https://github.com/ahammadshawki8/ahammadshawki8/blob/master/twitter.png" /></a> </p>
-
- 
- 
- 
- 
 
 ![](https://raw.githubusercontent.com/Subhampreet/Subhampreet/master/media/footer.png)

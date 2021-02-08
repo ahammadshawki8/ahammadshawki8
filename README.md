@@ -1,6 +1,6 @@
 ![](https://github.com/ahammadshawki8/ahammadshawki8/blob/master/header_.png)
 
-<br><br>
+<br>
 
 <h1 align="center"> <a href ="https://ahammadshawki8.github.io/">Ahammad Shawki</a></h1>
 <p align="center">Python Programmer | Web Developer | Data Science Enthusist | Blogger | Freelancer | Math Lover | Author</p>

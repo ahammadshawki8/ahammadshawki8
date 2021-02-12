@@ -28,13 +28,16 @@
 <br><br>
 
 <h2 align="center"> GitHub Overview </h2>
-<p align="center">
-<a href="https://github.com/ahammadshawki8/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ahammadshawki8&show_icons=true&include_all_commits=true" alt="Ahammad's GitHub Stats" />
-</a>
-<a href="https://github.com/ahammadshawki8/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ahammadshawki8&layout=compact" />
-</a></p>
+<table>
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahammadshawki8&layout=compact&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true&extra=skyra-project/skyra,skyra.pw,alestra,skyra-sharp,lycore,aurora,char,timestamp,anti-user-gateway,orm,eslint-config;binarytf/binarytf;discordjs/discord.js,collection;novariableglobal/mood,g.shift,global-engine;sapphire-project/framework,pieces,plugins,utilities" />
+    </td>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/?username=ahammadshawki8&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
+    </td>
+  </tr>
+</table>
 
 
 <br><br>

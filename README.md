@@ -16,6 +16,7 @@
 <p align="center">I’m interested in internship opportunities in Software Engineering, Backend Development, and Web Application Development. Please visit my website to know better about me. Send me an email if you think I am a good match for your company.<br>
   
 <h4 align="center">Show some &nbsp;❤️&nbsp; by starring  &nbsp;⭐&nbsp; some of the repositories!</h4>
+<h5 align="center"><a href="https://github.com/ahammadshawki8/ahammadshawki8/discussions">Ask Me Anything (AMA)</a></h4>
 </p>
 
 <br><br>

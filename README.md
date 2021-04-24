@@ -7,13 +7,17 @@
 <p align = "center"><img src="https://github.com/ahammadshawki8/ahammadshawki8/blob/master/code.gif"/></p>
 
 
-<p align="center">Hey there, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px">. It is nice to meet you. I am currently studying at Rajuk Uttara Model College. I started my programming journey when I was 12 years old. Since then, I have worked on tons of projects. Most of them are based on Python as it is my favorite language.</a>
+<p align="center">Hey there, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px">. It is nice to meet you. I am currently studying at Rajuk Uttara Model College. I started my programming journey when I was 12 years old.</p>
 
-<p align="center">I have experience with Data Structures and Algorithms, Object-Oriented Programming, C/C++, PowerShell, PostgreSQL, Git & GitHub, HTML5, CSS3, Django, and multiple Python libraries/frameworks including NumPy, SciPy, Pandas (Data Analysis), Matplotlib (Data Visualization), Kivy (Graphical User Interface), PyGame (GameDev), SpeechRecognition, Pyttsx3 (Text to Speech), Psycopg2 (Database), etc.</p>
+<p align="center">From the moment I printed the “Hello World” in the console of my first application, I knew I was hooked into the world of programming, But programming was never been “just a side hustle” for me, it’s offered me an engaging challenge to continually learn and improve my skills in creating high-quality applications. What started with a simple “Hello World” has become a full-fledged passion that only gets more exciting as the years go by.</p>
 
-<p align="center">Professionally, I am very passionate about applications of Deep Learning, Machine Learning, and Artificial Intelligence. So, I am gradually learning them. Currently, I am working on a project about <a href = "https://github.com/ahammadshawki8/One-Meeting-Assistant">"One Meeting Assistant"</a>. This project focuses on creating a user-friendly application that can ease the daily monotonous work of meeting management.</p>
+<p align="center">Since then, I have worked on tons of personal and organizational programming projects. Most of them are based on Python and it is my favorite language.</p>
 
-<p align="center">I’m interested in internship opportunities in Software Engineering, Backend Development, and Web Application Development. Please visit my website to know better about me. Send me an email if you think I am a good match for your company.<br>
+<p align="center">I have experience with Data Structures and Algorithms, Object-Oriented Programming, C/C++, JavaScript, Vue, Bootstrap, PowerShell, PostgreSQL, Git & GitHub, Django, and multiple Python libraries/frameworks including NumPy, SciPy, Pandas (Data Analysis), Matplotlib (Data Visualization), Kivy (Graphical User Interface), PyGame (GameDev), SpeechRecognition, Pyttsx3 (Text to Speech), Psycopg2 (Database), etc.</p>
+
+<p align="center">Professionally, I am very passionate about applications of Web Application Development, Machine Learning, Deep Learning, and Artificial Intelligence. Currently, I am working on a project about <a href = "https://github.com/ahammadshawki8/One-Meeting-Assistant">"One Meeting Assistant"</a>. This project focuses on creating a user-friendly application that can ease the daily monotonous work of meeting management.</p>
+
+<p align="center">I’m interested in internship opportunities in Software Engineering, Fullstack Web Development, Data Analysis and Visualization. Please visit my website to know better about me. Send me an email if you think I am a good match for your company.<br>
   
 <h4 align="center">Show some &nbsp;❤️&nbsp; by starring  &nbsp;⭐&nbsp; some of the repositories!</h4>
 <h5 align="center"><a href="https://github.com/ahammadshawki8/ahammadshawki8/discussions">Ask Me Anything (AMA)</a></h4>

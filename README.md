@@ -13,14 +13,14 @@
   
 <h4 align="center">Show some &nbsp;❤️&nbsp; by starring  &nbsp;⭐&nbsp; some of the repositories!</h4>
 
-<br><br>
+<br>
 
 <h2 align="center"> Languages & Tools </h2>
 <p align="center">
 <img src="https://github.com/ahammadshawki8/ahammadshawki8/blob/master/python.png" alt="Python" width="48" height="48"/>&nbsp;<img src="https://github.com/ahammadshawki8/ahammadshawki8/blob/master/c.png" alt="C" width="50" height="48"/>&nbsp;<img src="https://github.com/ahammadshawki8/ahammadshawki8/blob/master/cpp.png" alt="C++" width="40" height="48"/>&nbsp;<img src="https://github.com/ahammadshawki8/ahammadshawki8/blob/master/js.png" alt="JavaScript" width="50" height="48"/>&nbsp;<img src="https://github.com/ahammadshawki8/ahammadshawki8/blob/master/postgres.png" alt="PostgreSQL" width="48" height="48"/>&nbsp;<img src="https://github.com/ahammadshawki8/ahammadshawki8/blob/master/figma.png" alt="Figma" width="40" height="48"/>
 
 
-<br><br>
+<br>
 
 <h2 align="center"> Let's connect! </h2>
 <p align="center">

@@ -1,9 +1,5 @@
 ![](https://github.com/ahammadshawki8/ahammadshawki8/blob/master/header_.png)
 
-<br>
-
-<h1 align="center"> <a href ="https://ahammadshawki8.github.io/">Ahammad Shawki</a></h1>
-<p align="center">Web Developer  |  Competitive Programmer  |  UI/UX Designer</p>
 
 
 <p align="center">Hey there, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px">. It is nice to meet you. I am currently studying at Bangladesh University of Engineering and Technology (BUET).</p>

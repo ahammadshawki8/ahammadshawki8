@@ -1,0 +1,67 @@
+#include <bits/stdc++.h>
+
+using namespace std;
+
+
+
+class Node {
+    public:
+        double x, y, t;
+
+        Node (double x, double y, double t) {
+            this -> x = x;
+            this -> y = y;
+            this -> t = t;
+        }
+};
+
+bool cmp(Node a, Node b) {
+    return a.t < b.t;
+}
+
+vector <Node> nodeList;
+
+int main() {
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+
+    int n;
+    cin >> n;
+
+    nodeList.push_back(Node(0, 0, 0));
+
+    for (int i = 0; i < n; i++) {
+        double x, y, t;
+        cin >> x >> y >> t;
+        nodeList.push_back(Node(x, y, t));
+    }
+
+
+    sort(nodeList.begin(), nodeList.end(), cmp);
+
+    for (auto v: nodeList) {
+        cout << v.x << " " << v.y << " " << v.t << " " << "\n";
+    }
+
+    double z;
+    cin >> z;
+
+    double sum = 0;
+    for (int i = 0; i <= n; i++) {
+        double x1, y1, t1, x2, y2, t2, dist;
+        x1 = nodeList[i].x;
+        y1 = nodeList[i].y;
+        t1 = nodeList[i].t;
+        x2= nodeList[i + 1].x;
+        y2= nodeList[i + 1].y;
+        t2= nodeList[i + 1].t;
+
+        dist = sqrt((x1-x2)*(x1-x2) + (y1-y2)*(y1-y2));
+        sum += dist/pow(z,i);
+    }
+
+    cout << sum/nodeList[n].t << "\n";
+
+
+    return 0;
+}

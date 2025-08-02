@@ -10,7 +10,7 @@
 💻 I have hands-on experience with:
 
 - Programming Languages: Python, C/C++, JavaScript, Java, SASS, Git, Powershell
-- Frameworks & Libraries: React, NEXT.js, Django, Numpy, Pandas, Matplotlib, PyTorch, Kivy, PyGame, OpenGL, JavaFX
+- Frameworks & Libraries: React, NEXT.js, Django, Numpy, Pandas, Matplotlib, Scikit-Learn, PyTorch, OpenCV, Kivy, PyGame, OpenGL, JavaFX
 - Databases: MongoDB, SQLite, PostgreSQL, H2
 </p>
 <br>

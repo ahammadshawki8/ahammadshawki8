@@ -26,7 +26,8 @@ the team ships under one name instead of scattering work across individual accou
 
 ## Recognition
 
-32 hackathons entered, 4 won.
+Thermal imaging, clinical speech, medical documents, loan covenants. The wins have almost
+nothing in common, which is the part I am proudest of.
 
 | Award | Competition | Project |
 | --- | --- | --- |
@@ -47,6 +48,15 @@ the team ships under one name instead of scattering work across individual accou
 | [**Gotcha!**](https://github.com/ahammadshawki8/Gotcha) | An AI that makes one deliberate mistake per challenge, so students learn to catch it. Generation and grading are separated so it cannot mark its own homework. |
 
 More at [ahammadshawki8.github.io/projects](https://ahammadshawki8.github.io/projects).
+
+## Competitions
+
+Where the scoreboard is a metric rather than a panel.
+
+| Competition | Task and result |
+| --- | --- |
+| [**Olikobochon**](https://www.kaggle.com/competitions/bengali-hallucination), IUTCS Datathon 2.0 | Decide whether a fluent Bengali answer is actually true. Third on the public leaderboard at 0.922 F1, using a deterministic decision ladder that sends only the residual to an LLM judge. [Code](https://github.com/ahammadshawki8/Shawki_Codes_IUTDL) |
+| [**DL Sprint 4.0**](https://www.kaggle.com/competitions/dl-sprint-4-0-bengali-long-form-speech-recognition), BUET CSE Fest 2026 | Bangla speech recognition on hours-long audio with overlapping speakers, background music and long silences. Scored on word error rate weighted by sentence length. |
 
 ## Tools
 

@@ -30,7 +30,7 @@ the team ships under one name instead of scattering work across individual accou
 
 | Award | Competition | Project |
 | --- | --- | --- |
-| **Grand Prize Winner** | [FLIR App Challenge 2025 to 2026](https://www.flir.com/developer/blog/2025-app-challenge-winners/) | SolarSnap |
+| **Grand Prize Winner** | [FLIR App Challenge 2025 to 2026](https://www.flir.com/developer/blog/2025-app-challenge-winners/) | [SolarSnap](https://github.com/ahammadshawki8/SolarSnap) |
 | **Winner, Best Overall Project** | ML Empowerment Build Challenge 2.0 | [CADENCE](https://github.com/ahammadshawki8/CADENCE) |
 | **Winner, Best ERNIE Multimodal Application** | ERNIE AI Developer Challenge, Baidu | [Doclyst](https://doclyst.vercel.app/) |
 | **Winner, Honourable Mention** | LMA EDGE Hackathon, presented at the London finale | [Coven](https://github.com/ahammadshawki8/Coven) |

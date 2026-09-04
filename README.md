@@ -21,9 +21,8 @@ Most of my work sits where an AI system meets a requirement to be correct. The p
 underneath all of it is the same: give the model the smallest job that only it can do, and
 make everything around it deterministic, measurable and reproducible.
 
-I also run [**SrotDev**](https://github.com/SrotDev) with my classmates, a flat engineering
-collective where we ship our projects under one name instead of scattering them across
-individual accounts.
+I also run [**SrotDev**](https://github.com/SrotDev), a flat engineering collective I founded so
+the team ships under one name instead of scattering work across individual accounts.
 
 ## Recognition
 
